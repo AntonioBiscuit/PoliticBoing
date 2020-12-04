@@ -7,6 +7,6 @@ Tu peux augmenter ou baisser le nombre de sprites et voir ton nombre de FPS !
 
 Ce Homebrew utilise les exemples "gpusprites" et "opus-decoding" de DevKitPro 3DS
 
-⚠ L'affichage a tendance à stutter sur hardware réel, sûrement à cause d'une mauvaise optimisation du code de ma part
+⚠ L'affichage a tendance à stutter sur hardware réel, sûrement lié au fait que le code n'est pas threadé correctement
 
-> [!VIDEO https://www.youtube.com/embed/m9igpLcJFJ8]
+https://www.youtube.com/embed/m9igpLcJFJ8]
