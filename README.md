@@ -9,4 +9,4 @@ Ce Homebrew utilise les exemples "gpusprites" et "opus-decoding" de DevKitPro 3D
 
 ⚠ L'affichage a tendance à stutter sur hardware réel, sûrement lié au fait que le code n'est pas threadé correctement
 
-https://www.youtube.com/embed/m9igpLcJFJ8]
+https://www.youtube.com/embed/m9igpLcJFJ8
